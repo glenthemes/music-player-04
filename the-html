@@ -1,0 +1,21 @@
+<!-------MUSIC PLAYER BY GLENTHEMES------->
+<div id="glenplayer04">
+<div id="gt-player">
+   <div id="music-controls">
+       <div class="playy">►</div>
+       <div class="pausee">❚❚</div>
+   </div>
+   <div id="gt-barwrap">
+   <div id="gt-musicbar">
+   <div id="gt-musictrack"></div>
+   <div id="gt-blob"></div>
+   </div></div>
+
+   <div id="music-duration"></div>
+</div>
+
+<div id="gt-songtext">Roselia - Ringing Bloom</div>
+</div>
+
+<audio id="symphonia" src="https://dl.dropbox.com/s/y0hacmb8oaajfcv/Ringing%20Bloom.ogg" type="audio"></audio>
+<!----end music player---->
